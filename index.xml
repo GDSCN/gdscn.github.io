@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genomic Data Science Community Network</title>
+    <link>/</link>
+    <description>Recent content on Genomic Data Science Community Network</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>The Genomic Data Science Community Network seeks to&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>/contact/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Coming soon! </description>
+    </item>
+    
+    <item>
+      <title>Curricula</title>
+      <link>/curricula/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/curricula/</guid>
+      <description>Coming soon! </description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>/event/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/event/</guid>
+      <description>Workshops More information coming soon!</description>
+    </item>
+    
+    <item>
+      <title>Our Team</title>
+      <link>/team/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/team/</guid>
+      <description>Core Team Working groups Coming soon! </description>
+    </item>
+    
+  </channel>
+</rss>
