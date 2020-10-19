@@ -1,14 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Genomic Data Science Community Network</title>
-    <link>/categories/</link>
-    <description>Recent content in Categories on Genomic Data Science Community Network</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Categories | Genomic Data Science Community Network</title>
+    <link>https://gdscn.github.io/categories/</link>
+      <atom:link href="https://gdscn.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://gdscn.github.io/images/logo_hucaccfc8bc20aaa681234d3907986fd14_23694_300x300_fit_lanczos_2.png</url>
+      <title>Categories</title>
+      <link>https://gdscn.github.io/categories/</link>
+    </image>
     
   </channel>
 </rss>

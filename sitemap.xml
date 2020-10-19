@@ -3,41 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://gdscn.github.io/team/</loc>
+    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gdscn.github.io/about/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>https://gdscn.github.io/contact/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/curricula/</loc>
+    <loc>https://gdscn.github.io/curriculum/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/event/</loc>
+    <loc>https://gdscn.github.io/event/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <loc>https://gdscn.github.io/authors/</loc>
   </url>
   
   <url>
-    <loc>/team/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <loc>https://gdscn.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://gdscn.github.io/author/coming-soon/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://gdscn.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gdscn.github.io/author/jeff-leek/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gdscn.github.io/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gdscn.github.io/tags/</loc>
   </url>
   
 </urlset>
