@@ -20,24 +20,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>About</title>
-      <link>https://gdscn.github.io/about/</link>
-      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://gdscn.github.io/about/</guid>
-      <description>&lt;p&gt;The Genomic Data Science Community Network seeks to develop a working group of individuals from Historically Black Colleges and Universities (HBCUs), Minority Serving Institutions (MSIs), Tribal Colleges and Universities (TCUs), and Community Colleges (CC) to define a strategy for advertising, training, and ongoing support to allow students and researchers from these institutions to learn about how to use cloud tools to perform biomedical data science and to leverage these technologies to engage in cutting edge research at their home institutions. The working group participants will be invited to participate in an online planning meeting to develop and share training materials on the NHGRI’s 
-&lt;a href=&#34;https://anvilproject.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://anvilproject.org&lt;/a&gt;, as well as an online training and research symposium. We hope this will provide visibility to participating faculty and serve as a launching point for additional collaborations around encouraging diverse participation in cloud data science.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Contact Us</title>
-      <link>https://gdscn.github.io/contact/</link>
-      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://gdscn.github.io/contact/</guid>
-      <description>&lt;h1 id=&#34;coming-soon&#34;&gt;Coming soon!&lt;/h1&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
