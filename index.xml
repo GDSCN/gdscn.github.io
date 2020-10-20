@@ -39,24 +39,5 @@
 </description>
     </item>
     
-    <item>
-      <title>Curricula</title>
-      <link>https://gdscn.github.io/curriculum/</link>
-      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://gdscn.github.io/curriculum/</guid>
-      <description>&lt;h1 id=&#34;coming-soon&#34;&gt;Coming soon!&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Events</title>
-      <link>https://gdscn.github.io/event/</link>
-      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://gdscn.github.io/event/</guid>
-      <description>&lt;h1 id=&#34;workshops&#34;&gt;Workshops&lt;/h1&gt;
-&lt;p&gt;More information coming soon!&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
