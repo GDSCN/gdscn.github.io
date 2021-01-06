@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rosa Alcazar | Genomic Data Science Community Network</title>
+    <link>https://gdscn.github.io/author/rosa-alcazar/</link>
+      <atom:link href="https://gdscn.github.io/author/rosa-alcazar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rosa Alcazar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://gdscn.github.io/images/logo_hucaccfc8bc20aaa681234d3907986fd14_23694_300x300_fit_lanczos_2.png</url>
+      <title>Rosa Alcazar</title>
+      <link>https://gdscn.github.io/author/rosa-alcazar/</link>
+    </image>
+    
+  </channel>
+</rss>
